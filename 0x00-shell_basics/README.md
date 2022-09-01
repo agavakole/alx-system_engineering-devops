@@ -1,1 +1,1 @@
-Display current dir contents in long format group ids numerically
+Create a script that creates a directory named my_first_directory
