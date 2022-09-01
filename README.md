@@ -1,1 +1,1 @@
-Task 6.creating a script
+Task 7.Moving a file
