@@ -1,1 +1,1 @@
-Task 7.Moving a file
+Task 8.Deleting a file
