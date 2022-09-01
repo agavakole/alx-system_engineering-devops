@@ -1,1 +1,1 @@
-Task 2.change from working dir to usr home dir
+Task 3.display current dir in long format
