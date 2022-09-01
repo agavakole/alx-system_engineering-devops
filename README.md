@@ -1,1 +1,1 @@
-Task 1.list of your current dir
+Task 2.change from working dir to usr home dir
