@@ -1,1 +1,1 @@
-Task 3.display current dir in long format
+Task 4.Displaying hidden files
