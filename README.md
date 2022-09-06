@@ -1,1 +1,1 @@
-Task 19.creating a magic file
+Task 0.script that prints “Hello, World”
